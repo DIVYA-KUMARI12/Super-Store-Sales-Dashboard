@@ -37,3 +37,6 @@
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
+
+## I’ve also shared this project on LinkedIn, where I talk about the process and key learnings.  
+👉 [Check out my LinkedIn post here](https://www.linkedin.com/posts/divya-kumari11_dataanalysis-project-datavisualisation-activity-7149501530528698368-8NII?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIfFNYBJ_dfC7N1lK-xFmerXmSxBXlnOT4) 
